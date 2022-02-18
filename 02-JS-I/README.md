@@ -16,7 +16,7 @@
 
 #### Introducción a JavaScript
 
-In esta lección cubriremos:
+En esta lección cubriremos:
 
 * Introducción a Javascript
 * Variables
